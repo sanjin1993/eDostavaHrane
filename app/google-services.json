@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200500309986",
+    "firebase_url": "https://edostavahrane.firebaseio.com",
+    "project_id": "edostavahrane",
+    "storage_bucket": "edostavahrane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200500309986:android:a6f1add3bb66e834",
+        "android_client_info": {
+          "package_name": "com.example.sanjinpc.edostavahrane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200500309986-u3ip7d39j8tqftu10nl8gdd9snb19oqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanjinpc.edostavahrane",
+            "certificate_hash": "e928d1b1869c0e8f00526055d3b566d78bfaf93c"
+          }
+        },
+        {
+          "client_id": "200500309986-8gr7tf019j9u92asbu323ac5s963vmai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzxAD8lK7XV5BIoIs5eRSH9mLu0wv0vY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200500309986-8gr7tf019j9u92asbu323ac5s963vmai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
